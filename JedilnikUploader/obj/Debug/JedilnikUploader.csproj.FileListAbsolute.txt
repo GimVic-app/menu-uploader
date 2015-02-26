@@ -4,3 +4,6 @@ c:\users\zigapatacko\documents\visual studio 2015\Projects\JedilnikUploader\Jedi
 c:\users\zigapatacko\documents\visual studio 2015\Projects\JedilnikUploader\JedilnikUploader\bin\Debug\JedilnikUploader.pdb
 c:\users\zigapatacko\documents\visual studio 2015\Projects\JedilnikUploader\JedilnikUploader\obj\Debug\JedilnikUploader.exe
 c:\users\zigapatacko\documents\visual studio 2015\Projects\JedilnikUploader\JedilnikUploader\obj\Debug\JedilnikUploader.pdb
+C:\Users\zigapatacko\Documents\Visual Studio 2015\Projects\JedilnikUploader\GimVic-JedilnikUploader\JedilnikUploader\bin\Debug\JedilnikUploader.exe.config
+C:\Users\zigapatacko\Documents\Visual Studio 2015\Projects\JedilnikUploader\GimVic-JedilnikUploader\JedilnikUploader\obj\Debug\JedilnikUploader.exe
+C:\Users\zigapatacko\Documents\Visual Studio 2015\Projects\JedilnikUploader\GimVic-JedilnikUploader\JedilnikUploader\obj\Debug\JedilnikUploader.pdb
