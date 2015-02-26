@@ -1,0 +1,6 @@
+c:\users\zigapatacko\documents\visual studio 2015\Projects\JedilnikUploader\JedilnikUploader\bin\Debug\JedilnikUploader.exe.config
+c:\users\zigapatacko\documents\visual studio 2015\Projects\JedilnikUploader\JedilnikUploader\obj\Debug\JedilnikUploader.csprojResolveAssemblyReference.cache
+c:\users\zigapatacko\documents\visual studio 2015\Projects\JedilnikUploader\JedilnikUploader\bin\Debug\JedilnikUploader.exe
+c:\users\zigapatacko\documents\visual studio 2015\Projects\JedilnikUploader\JedilnikUploader\bin\Debug\JedilnikUploader.pdb
+c:\users\zigapatacko\documents\visual studio 2015\Projects\JedilnikUploader\JedilnikUploader\obj\Debug\JedilnikUploader.exe
+c:\users\zigapatacko\documents\visual studio 2015\Projects\JedilnikUploader\JedilnikUploader\obj\Debug\JedilnikUploader.pdb
