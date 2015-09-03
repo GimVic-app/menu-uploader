@@ -22,7 +22,7 @@ BinaryStream.Open
 For r = 1 To 40
 s = ""
 c = 1
-While c < 7
+While c < 9
 s = s & wkb.Cells(r, c).Value & ";"
 c = c + 1
 Wend
