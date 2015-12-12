@@ -31,6 +31,7 @@ namespace JedilnikUploader
                 try {
                     string text = System.IO.File.ReadAllText(@"C:\Jedilnik\jedilnik.csv");
                     uploadString("http://app.gimvic.org/APIv2/jedilnikAPI/uploadFile.php", text);
+                    uploadString("http://gimvicapp.404.si/menuUpload", text);
                 } catch {}
             }
         }
